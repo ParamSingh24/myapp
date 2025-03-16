@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384051334519",
+    "project_id": "g00glefoodrescue",
+    "storage_bucket": "g00glefoodrescue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384051334519:android:addaa28363a084a3822572",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEIHTKS8haz6AHvAzvA-wC2X_VKdtUDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
